@@ -40,5 +40,5 @@ services:
     links:
       - mysql-db
       
- volumes:
+  volumes:
    db:
