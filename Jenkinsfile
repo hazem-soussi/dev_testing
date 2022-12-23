@@ -11,7 +11,7 @@ agent any
         stage ("1st stage : Git checkout PLEAASE"){
             steps{
         git branch: 'main', 
-            url: 'https://github.com/hazem-soussi/devops_test.git'
+            url: 'https://github.com/hazem-soussi/dev_testing'
             }
         
         }
